@@ -10,3 +10,6 @@
 [submodule "ThirdParty/SFML-2.5.1"]
 	path = ThirdParty/SFML-2.5.1
 	url = https://github.com/SFML/SFML
+[submodule "ThirdParty/glfw"]
+	path = ThirdParty/glfw
+	url = https://github.com/glfw/glfw
