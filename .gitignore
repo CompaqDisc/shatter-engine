@@ -44,7 +44,7 @@
 *.pdb
 
 # Project specific
-/ThirdParty
+#/ThirdParty
 /Output/*.log
 /Output/*.ilk
 *x64/

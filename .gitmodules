@@ -1,0 +1,9 @@
+[submodule "ThirdParty/discord-rpc"]
+	path = ThirdParty/discord-rpc
+	url = https://github.com/discordapp/discord-rpc
+[submodule "ThirdParty/stb"]
+	path = ThirdParty/stb
+	url = https://github.com/nothings/stb
+[submodule "ThirdParty/imgui-1.70"]
+	path = ThirdParty/imgui-1.70
+	url = https://github.com/ocornut/imgui
