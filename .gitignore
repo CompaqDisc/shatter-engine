@@ -58,3 +58,7 @@
 /Resources
 /Shaders
 /Textures
+
+# Makefiles
+*.make
+Makefile
