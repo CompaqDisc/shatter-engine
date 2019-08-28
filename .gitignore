@@ -58,7 +58,13 @@
 /Resources
 /Shaders
 /Textures
+imgui.ini
+ShatterEngine.ini
+*.log
 
 # Makefiles
 *.make
 Makefile
+
+# VS Code
+/.vscode
