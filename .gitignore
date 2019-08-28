@@ -68,3 +68,7 @@ Makefile
 
 # VS Code
 /.vscode
+
+# VS
+*.sln
+*.vcxproj*
