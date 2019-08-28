@@ -46,6 +46,15 @@
 # Project specific
 #/ThirdParty
 /ThirdParty/glad
+/ThirdParty/glfw-3.2.1.bin.WIN64
 /Output/*.log
 /Output/*.ilk
 *x64/
+
+# Runtime assets
+/Audio
+/Levels
+/Models
+/Resources
+/Shaders
+/Textures
