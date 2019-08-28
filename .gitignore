@@ -73,3 +73,7 @@ Makefile
 *.sln
 *.vcxproj*
 *.props
+
+# Built files
+/bin
+/build
