@@ -72,3 +72,4 @@ Makefile
 # VS
 *.sln
 *.vcxproj*
+*.props
